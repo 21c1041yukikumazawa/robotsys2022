@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Yuki Kumazawa
 
 x = 0.0
 xa = xb = 1.0
