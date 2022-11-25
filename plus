@@ -1,15 +1,20 @@
-#!/usr/bin/python3
+#!/usr/bin/python3 
 # SPDX-FileCopyrightText: 2022 Yuki Kumazawa
 # SPDX-License-Identifier: BSD-3-Clause
 
 import sys
 
 ans = 0
+fun = 1
 
 for line in sys.stdin:
 
     try: 
         ans += int(line)
+        fun *= int(line)
     except:
         ans += float(line)
-print(ans)
+        fun *= float(line)
+
+print("a + b",(ans))
+print("a * b",(fun))
