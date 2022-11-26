@@ -5,16 +5,16 @@
 import sys
 
 ans = 0
-fun = 1
+mul = 1
 
 for line in sys.stdin:
 
     try: 
         ans += int(line)
-        fun *= int(line)
+        mul *= int(line)
     except:
         ans += float(line)
-        fun *= float(line)
+        mul *= float(line)
 
 print("a + b",(ans))
-print("a * b",(fun))
+print("a * b",(mul))
