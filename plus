@@ -16,5 +16,4 @@ for line in sys.stdin:
         ans += float(line)
         mul *= float(line)
 
-print("a + b",(ans))
-print("a * b",(mul))
+print(ans,mul)
