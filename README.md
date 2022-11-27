@@ -9,7 +9,7 @@
 * Python(Ubuntu22.04)
   * Ubuntu Vre:3.7 ～3.10 テスト
 ## テスト環境
-* Ubun
+* Ubuntu
 ## 作成者
 熊澤佑紀
 ## ライセンス
