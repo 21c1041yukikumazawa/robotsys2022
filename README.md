@@ -1,4 +1,4 @@
-#robotsys2022
+# robotsys2022
 練習用のリポジトリです
 ## plusmultコマンド
 [![test](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml/badge.svg)](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml)
@@ -11,7 +11,7 @@
 
 ## テスト環境
 * Ubuntu
-##ライセンス
+## ライセンス
 BSDライセンスにより
 プログラムの使用に一切の保証はありません
 
