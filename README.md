@@ -1,6 +1,6 @@
 #robotsys2022
 練習用のリポジトリです
-# plusmultコマンド
+## plusmultコマンド
 [![test](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml/badge.svg)](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml)
 標準入力から読み込んだ数字を足す、かける。
   例:seq 5 | ./plus
@@ -11,7 +11,7 @@
 
 ## テスト環境
 * Ubuntu
-#ライセンス
+##ライセンス
 BSDライセンスにより
 プログラムの使用に一切の保証はありません
 
