@@ -1,7 +1,6 @@
 # plusコマンド
-![test](http://github.com/21c1041yukikumazawa/robotsys2022/blob/main/.github/workflows/test.yml)
 標準入力から読み込んだ数字を足す、かける。
-例:seq 5 | ./plus
+\n例:seq 5 | ./plus
 ## 必要なソフトウェア
 * Python
   * テスト済み:3.7 ～3.10
