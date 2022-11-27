@@ -2,7 +2,7 @@
 練習用のリポジトリです
 ## plusmultコマンド
 [![test](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml/badge.svg)](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml)
-標準入力から読み込んだ数字を足す、かける。
+標準入力から読み込んだ数字の足し算、掛け算の演算結果を出力します  
   例:seq 5 | ./plus
 
 ## 必要なソフトウェア
