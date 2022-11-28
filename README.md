@@ -1,7 +1,7 @@
 # robotsys2022
 ![test](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml/badge.svg)  
 練習用のリポジトリです
-## リポジトリのインストール方法
+## コマンドの利用方法
 $ git clone git@github.com:21c1041yukikumazawa/robotsys2022.git  
 $ cd robotsys2022
 ## plusmultコマンド
@@ -18,6 +18,7 @@ $ seq 5 | ./plusmult　     　　　　　　#数字の変更可能
 * Ubuntu
 ## ライセンス
 三条項BSDライセンスにより
-プログラムの使用に一切の保証はありません
 
+プログラムの使用、再配布が許可されています。
+ただし、使用に一切の保証はありません
 ©　2022 Yuki Kumazawa
