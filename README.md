@@ -1,7 +1,8 @@
 # robotsys2022
+[![test](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml/badge.svg)]  
 練習用のリポジトリです
 ## plusmultコマンド
-[![test](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml/badge.svg)](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml)
+(https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml)
 標準入力から読み込んだ数字の足し算、掛け算の演算結果を出力します  
   
    [usage plusmult.txt](https://github.com/21c1041yukikumazawa/robotsys2022/files/10098475/usage.plusmult.txt)
