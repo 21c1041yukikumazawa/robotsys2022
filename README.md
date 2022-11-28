@@ -10,8 +10,10 @@ $ cd robotsys2022
 $ seq 5 | ./plusmult　#数字の変更可能  
 15 120　#演算結果が出力される　
 ## 必要なソフトウェア
+* OS  
+  * Ubuntu
 * Python
-  * Ubuntu 
+  * 3.7~3.10でテスト済み
 ## テスト環境
 * Ubuntu
 ## 作成者
