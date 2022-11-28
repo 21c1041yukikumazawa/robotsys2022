@@ -1,16 +1,17 @@
 # robotsys2022
 [![test](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml/badge.svg)]  
 練習用のリポジトリです
+## リポジトリのインストール方法
+$ git clone git@github.com:21c1041yukikumazawa/robotsys2022.git  
+$ cd robotsys2022
 ## plusmultコマンド
 標準入力から読み込んだ数字の足し算、掛け算の演算結果を出力します。  
 使い方  
-seq 5 | ./plusmult　を入力する  
-15 120　　が出力される
-## リポジトリのインストール方法
-git clone
+$ seq 5 | ./plusmult　#数字の変更可能  
+15 120　#演算結果が出力される　
 ## 必要なソフトウェア
-* Python(Ubuntu22.04)
-  * Ubuntu Vre:3.7 ～3.10 テスト
+* Python
+  * Ubuntu 
 ## テスト環境
 * Ubuntu
 ## 作成者
