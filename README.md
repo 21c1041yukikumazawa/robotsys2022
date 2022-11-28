@@ -1,5 +1,5 @@
 # robotsys2022
-[![test](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml/badge.svg)]  
+![test](https://github.com/21c1041yukikumazawa/robotsys2022/actions/workflows/test.yml/badge.svg)  
 練習用のリポジトリです
 ## リポジトリのインストール方法
 $ git clone git@github.com:21c1041yukikumazawa/robotsys2022.git  
