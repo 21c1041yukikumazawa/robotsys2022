@@ -12,6 +12,7 @@ for line in sys.stdin:
     try: 
         ans += int(line)
         mul *= int(line)
+###例外処理###
     except:
         ans += float(line)
         mul *= float(line)
